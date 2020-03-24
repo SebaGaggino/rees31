@@ -9,6 +9,8 @@ automatic ambu ventilator
 ventilador ambu automatico
 # esto es solo una prueba de concepto, no tiene ninguna aprobacion, es solo para motivos de desarrollo
 
+Prototype working:
+https://youtu.be/ERlPYSrKaJs
 
 telegram group
 https://t.me/reesistenciaargentinaRespirador
