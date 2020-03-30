@@ -1,0 +1,12 @@
+Stepper motor driver:
+FystecS109 v1.1
+
+Current: 2.5A
+Voltage: 12volt (24~30v recommended)
+
+Reset and Enable should be grounded
+VDD should not be connected
+
+Microstepping:
+
+32 microsteps
